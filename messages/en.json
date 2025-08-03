@@ -1,0 +1,210 @@
+{
+  "HomePage": {
+    "title": "What's Your Brainrot Type?",
+    "subtitle": "Take the chaotic test and find out what kind of fan-crazed obsession you have",
+    "description": "Discover your unique brainrot personality through our scientifically unhinged quiz. Are you a breakdown type, loop type, or something even more chaotic?",
+    "startButton": "Start the Test",
+    "features": {
+      "instant": "Instant Results",
+      "shareable": "Shareable Cards", 
+      "accurate": "Scarily Accurate"
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "quiz": "Quiz",
+    "about": "About",
+    "language": "Language"
+  },
+  "Quiz": {
+    "title": "Brainrot Test",
+    "subtitle": "Answer honestly (if you can)",
+    "progress": "Question {current} of {total}",
+    "nextButton": "Next Question",
+    "finishButton": "Get My Result",
+    "previousButton": "Previous"
+  },
+  "Questions": {
+    "social_media_time": {
+      "question": "How much time do you spend on social media daily?",
+      "options": {
+        "non_stop": "Non-stop scrolling until phone overheats",
+        "three_hours": "3+ hours minimum, especially at night", 
+        "while_eating": "I scroll while eating, can't eat without it",
+        "never_exit": "I literally never close the app"
+      }
+    },
+    "content_type": {
+      "question": "What type of content do you consume most?",
+      "options": {
+        "anime_clips": "Anime clips / beat drop edits",
+        "fan_creation": "Fan creations / lip sync content",
+        "fanfic_recommendations": "Fanfiction recs / series reviews", 
+        "breakdown_posts": "Breakdown threads / emotional rants"
+      }
+    },
+    "repetitive_thoughts": {
+      "question": "What phrase loops in your head the most?",
+      "options": {
+        "so_handsome": "\"How can they be this perfect...\"",
+        "if_met_earlier": "\"If only I met them earlier...\"",
+        "going_crazy": "\"I'm literally going insane\"",
+        "marry_now": "\"I need to marry them RIGHT NOW\""
+      }
+    },
+    "character_actions": {
+      "question": "What have you done for your favorite character?",
+      "options": {
+        "dream_and_cry": "Dreamed about them and woke up crying",
+        "write_letters": "Written letters I can never send",
+        "scream_neighbors": "Screamed so loud neighbors complained",
+        "stare_merchandise": "Stared at merch for hours after buying"
+      }
+    },
+    "brainrot_reaction": {
+      "question": "When someone calls you 'brainrotted', you:",
+      "options": {
+        "no_just_like": "\"I'm not! I just really like them!\"",
+        "smile_continue": "Smile and continue being unhinged",
+        "yes_religion": "\"Yes, thank you, they're my religion\"",
+        "not_worthy": "\"I'm not even worthy of being called that\""
+      }
+    },
+    "brain_retention": {
+      "question": "If your brain could only keep one thing, it would be:",
+      "options": {
+        "smile_frame": "That one frame of them smiling",
+        "edit_bgm": "That edit with the perfect BGM match",
+        "fanfic_fragment": "A paragraph from my unfinished fanfic",
+        "confession_memory": "The memory of crying over their confession scene"
+      }
+    },
+    "fear_words": {
+      "question": "What are you most afraid of hearing?",
+      "options": {
+        "wake_up": "\"Wake up, it's not real\"",
+        "virtual": "\"They're fictional\"",
+        "not_his_who": "\"You're not even their type\"",
+        "character_ruined": "\"The writers ruined their character\""
+      }
+    },
+    "relationship_type": {
+      "question": "Your relationship with your obsession is like:",
+      "options": {
+        "saved_me": "They saved me",
+        "ruined_me": "They ruined me",
+        "doesnt_know": "They don't know I exist",
+        "no_hope": "I'm beyond saving"
+      }
+    },
+    "typical_comment": {
+      "question": "Which sounds like something you'd post?",
+      "options": {
+        "screaming": "\"AAAAAAAHHHHHHH!!!!!!\"",
+        "dialogue_death": "\"I died when they said that line\"",
+        "brain_occupied": "\"They live in my brain rent-free and I'm bankrupt\"",
+        "bow_to_writer": "\"I would bow down to the writers\""
+      }
+    },
+    "current_state": {
+      "question": "Your current mental state is:",
+      "options": {
+        "realize_crazy": "I realize I'm crazy",
+        "accept_crazy": "I've accepted this madness",
+        "like_crazy_self": "I like who I am when I'm crazy",
+        "sick_but_real": "I'm sick but I've never felt more alive"
+      }
+    }
+  },
+  "Results": {
+    "title": "Your Brainrot Type",
+    "subtitle": "You are the",
+    "shareTitle": "I took the Brainrot Test and got:",
+    "shareButton": "Share Result",
+    "saveButton": "Save Image",
+    "retakeButton": "Take Quiz Again",
+    "copyButton": "Copy Link",
+    "hashtags": "#BrainrotTest #PersonalityTest #Obsession"
+  },
+  "ResultTypes": {
+    "breakdown": {
+      "name": "Breakdown Brainrot",
+      "description": "You're the champion of emotional breakdowns. One cute moment and you're sobbing for hours. Your tears could fill an ocean and you're proud of it.",
+      "traits": ["Emotional", "Intense", "Passionate", "Dramatic"]
+    },
+    "loop": {
+      "name": "Loop Brainrot", 
+      "description": "You replay the same 3-second clip 1000 times and still want more. That one perfect frame lives rent-free in your head and you're the landlord.",
+      "traits": ["Obsessive", "Detail-oriented", "Perfectionist", "Focused"]
+    },
+    "fanfic": {
+      "name": "Fanfiction Brainrot",
+      "description": "You've written 50k words about characters having breakfast. Your imagination is unhinged and your Google Docs are legendary.",
+      "traits": ["Creative", "Imaginative", "Writer", "Romantic"]
+    },
+    "academic": {
+      "name": "Academic Brainrot",
+      "description": "You know their backstory better than the creators. You analyze every gesture like you're defending a PhD thesis on fictional characters.",
+      "traits": ["Analytical", "Thorough", "Intellectual", "Dedicated"]
+    },
+    "wedding": {
+      "name": "Wedding Brainrot",
+      "description": "You've planned your wedding 500 times and picked out baby names. In your mind, you're already married and living happily ever after.",
+      "traits": ["Romantic", "Optimistic", "Dreamer", "Devoted"]
+    },
+    "submission": {
+      "name": "Submission Brainrot",
+      "description": "You treat their every word like gospel. You've built a shrine in your heart and you worship at the altar of their existence.",
+      "traits": ["Devoted", "Loyal", "Worshipful", "Dedicated"]
+    },
+    "yandere": {
+      "name": "Yandere Brainrot",
+      "description": "You've started copying their mannerisms and speech patterns. Your personality is 80% them and you're not sorry about it.",
+      "traits": ["Imitative", "Intense", "Possessive", "Transformative"]
+    },
+    "chaotic": {
+      "name": "Chaotic Brainrot",
+      "description": "You're not just a fan, you're a content creator, theorist, and unofficial spokesperson. You've transcended obsession and become art.",
+      "traits": ["Creative", "Innovative", "Chaotic", "Legendary"]
+    },
+    "extreme": {
+      "name": "Extreme Brainrot",
+      "description": "You're the ultimate obsession incarnate. Your dedication is so intense it defies human comprehension. You don't just live for this - you ARE this.",
+      "traits": ["Intense", "Unhinged", "Passionate", "Legendary"]
+    }
+  },
+  "About": {
+    "title": "What is Brainrot?",
+    "subtitle": "Understanding the beautiful chaos of online obsession",
+    "definition": "Brainrot refers to the phenomenon where someone becomes so deeply obsessed with online content, fictional characters, or fandoms that it significantly impacts their daily thoughts and behavior.",
+    "sections": {
+      "origins": {
+        "title": "Origins",
+        "content": "The term 'brainrot' emerged from internet culture, particularly on platforms like TikTok, Twitter, and Tumblr, where users would jokingly describe their intense fixations on content or characters."
+      },
+      "types": {
+        "title": "Types of Brainrot",
+        "content": "From emotional breakdown types who cry at every cute moment, to academic types who analyze every detail, brainrot manifests in many forms."
+      },
+      "community": {
+        "title": "Community",
+        "content": "Rather than being ashamed, many embrace their brainrot as a form of passionate engagement with content they love. It's become a badge of honor in fan communities."
+      }
+    },
+    "testPurpose": "This test helps you identify which type of brainrot you have, celebrating the unique ways people connect with the content they love."
+  },
+  "SEO": {
+    "homepage": {
+      "title": "Brainrot Test - What's Your Internet Obsession Type? | Free Personality Quiz",
+      "description": "Take our viral Brainrot Test and discover your internet obsession personality type! Are you breakdown, loop, fanfic, or chaotic type? Share your results!"
+    },
+    "quiz": {
+      "title": "Take the Brainrot Test - Internet Obsession Personality Quiz",
+      "description": "Answer 10 questions to discover your brainrot type. Find out if you're a breakdown, loop, fanfic, or another type of internet-obsessed personality."
+    },
+    "about": {
+      "title": "What is Brainrot? Understanding Internet Obsession Culture",
+      "description": "Learn about brainrot culture, its origins, and different types of internet obsession. Understand why brainrot has become a celebrated part of online communities."
+    }
+  }
+}

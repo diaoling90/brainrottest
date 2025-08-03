@@ -1,0 +1,210 @@
+{
+  "HomePage": {
+    "title": "你是哪种脑腐类型？",
+    "subtitle": "来做这个混乱的测试，看看你是哪种疯狂粉丝沉迷类型",
+    "description": "通过我们科学而疯狂的测试，发现你独特的脑腐人格。你是破防型、循环型，还是更混乱的类型？",
+    "startButton": "开始测试",
+    "features": {
+      "instant": "即时结果",
+      "shareable": "可分享卡片", 
+      "accurate": "准确得可怕"
+    }
+  },
+  "Navigation": {
+    "home": "首页",
+    "quiz": "测试",
+    "about": "关于",
+    "language": "语言"
+  },
+  "Quiz": {
+    "title": "脑腐测试",
+    "subtitle": "请诚实回答（如果你还能的话）",
+    "progress": "第 {current} 题，共 {total} 题",
+    "nextButton": "下一题",
+    "finishButton": "查看结果",
+    "previousButton": "上一题"
+  },
+  "Questions": {
+    "social_media_time": {
+      "question": "你一天刷社交平台多长时间？",
+      "options": {
+        "non_stop": "不停刷，直到手机发烫",
+        "three_hours": "三小时起步，尤其是夜里", 
+        "while_eating": "一边吃饭一边刷，不刷不吃",
+        "never_exit": "我根本没退出过 app"
+      }
+    },
+    "content_type": {
+      "question": "你最常刷到哪类内容？",
+      "options": {
+        "anime_clips": "动画剪辑 / 卡点视频",
+        "fan_creation": "二创脑洞 / 带感剧情对口型",
+        "fanfic_recommendations": "同人文推荐 / 番剧感想", 
+        "breakdown_posts": "崩溃长文 / 内心独白"
+      }
+    },
+    "repetitive_thoughts": {
+      "question": "你脑海里循环最多的一句话是？",
+      "options": {
+        "so_handsome": "\"他怎么可以这么好看...\"",
+        "if_met_earlier": "\"如果我早一点遇见他...\"",
+        "going_crazy": "\"我真的疯了疯了疯了\"",
+        "marry_now": "\"我现在就要嫁给他\""
+      }
+    },
+    "character_actions": {
+      "question": "你曾经为角色做过以下哪件事？",
+      "options": {
+        "dream_and_cry": "梦到他醒来痛哭",
+        "write_letters": "给他写信但寄不出去",
+        "scream_neighbors": "看到他发糖尖叫到邻居敲门",
+        "stare_merchandise": "买周边后站在门口反复盯着"
+      }
+    },
+    "brainrot_reaction": {
+      "question": "有人说你 brainrot 了，你的反应是？",
+      "options": {
+        "no_just_like": "我没有！我只是很喜欢他",
+        "smile_continue": "笑着点头继续疯",
+        "yes_religion": "是的谢谢你我以他为信仰",
+        "not_worthy": "我连疯都不配，你知道吗？"
+      }
+    },
+    "brain_retention": {
+      "question": "如果你脑子只能保留一件事，你会保留？",
+      "options": {
+        "smile_frame": "他对我笑的那一帧",
+        "edit_bgm": "那段剪辑的 BGM 配画面",
+        "fanfic_fragment": "我写给他的废文片段",
+        "confession_memory": "他跟别人告白我哭了一宿的回忆"
+      }
+    },
+    "fear_words": {
+      "question": "你最怕别人说你什么？",
+      "options": {
+        "wake_up": "\"你清醒一点\"",
+        "virtual": "\"他是虚拟的\"",
+        "not_his_who": "\"你又不是他谁\"",
+        "character_ruined": "\"他人设崩了\""
+      }
+    },
+    "relationship_type": {
+      "question": "你和你的推之间的关系更像是：",
+      "options": {
+        "saved_me": "他救了我",
+        "ruined_me": "他毁了我",
+        "doesnt_know": "他不知道我",
+        "no_hope": "我没救了"
+      }
+    },
+    "typical_comment": {
+      "question": "以下哪句话更像你发的？",
+      "options": {
+        "screaming": "\"啊啊啊啊啊啊啊！！！！\"",
+        "dialogue_death": "\"他说那句台词的时候我死了\"",
+        "brain_occupied": "\"脑子被他住满了，我疯了\"",
+        "bow_to_writer": "\"我可以跪下来给编剧磕头\""
+      }
+    },
+    "current_state": {
+      "question": "你目前的状态是：",
+      "options": {
+        "realize_crazy": "意识到自己疯了",
+        "accept_crazy": "接受了这种疯",
+        "like_crazy_self": "喜欢自己疯的样子",
+        "sick_but_real": "病得不轻但活得真"
+      }
+    }
+  },
+  "Results": {
+    "title": "你的脑腐类型",
+    "subtitle": "你是",
+    "shareTitle": "我做了脑腐测试，结果是：",
+    "shareButton": "分享结果",
+    "saveButton": "保存图片",
+    "retakeButton": "重新测试",
+    "copyButton": "复制链接",
+    "hashtags": "#脑腐测试 #人格测试 #沉迷"
+  },
+  "ResultTypes": {
+    "breakdown": {
+      "name": "破防型脑腐",
+      "description": "你是全站最会大哭的疯子。看到一个可爱瞬间就能哭上几小时，你的眼泪能填满海洋，而且你以此为傲。",
+      "traits": ["情绪化", "强烈", "充满激情", "戏剧性"]
+    },
+    "loop": {
+      "name": "循环型脑腐", 
+      "description": "那个眼神你看了一千遍还嫌少。那一帧完美画面在你脑海里免费住着，而你就是房东。",
+      "traits": ["强迫性", "注重细节", "完美主义", "专注"]
+    },
+    "fanfic": {
+      "name": "同人脑补型脑腐",
+      "description": "你连他们吃早餐都能写出5万字。你的想象力已经脱缰，你的 Google 文档成了传奇。",
+      "traits": ["创造性", "想象力丰富", "作家", "浪漫"]
+    },
+    "academic": {
+      "name": "学术考据型脑腐",
+      "description": "你知道他用左手是因为儿时阴影。你比创作者更了解角色背景，分析每个动作就像在为虚拟角色博士论文答辩。",
+      "traits": ["分析性", "彻底", "智慧", "专注"]
+    },
+    "wedding": {
+      "name": "催眠婚礼型脑腐",
+      "description": "你在梦里和他已经吵完7次架了。在你心里，你们已经结婚并幸福地生活着。",
+      "traits": ["浪漫", "乐观", "梦想家", "忠诚"]
+    },
+    "submission": {
+      "name": "奴役服从型脑腐",
+      "description": "你连他说的废话都当福音抄下来。你在心里建了座神庙，在他存在的祭坛前膜拜。",
+      "traits": ["虔诚", "忠诚", "崇拜", "专注"]
+    },
+    "yandere": {
+      "name": "病娇模仿型脑腐",
+      "description": "你开始在日常说他的话了。你的人格80%都是他，而且你一点都不抱歉。",
+      "traits": ["模仿性", "强烈", "占有欲", "变革性"]
+    },
+    "chaotic": {
+      "name": "暴走二设型脑腐",
+      "description": "你是神不是粉，创造一切脑腐新宇宙。你不只是粉丝，还是内容创作者、理论家和非官方代言人。",
+      "traits": ["创造性", "创新", "混乱", "传奇"]
+    },
+    "extreme": {
+      "name": "极致脑腐",
+      "description": "你是沉迷的终极化身。你的痴迷程度超越人类理解范畴。你不是为此而活，你就是这个。",
+      "traits": ["强烈", "疯狂", "激情", "传奇"]
+    }
+  },
+  "About": {
+    "title": "什么是脑腐？",
+    "subtitle": "理解网络沉迷的美丽混乱",
+    "definition": "脑腐指的是一个人对网络内容、虚拟角色或粉丝圈如此深度痴迷，以至于显著影响其日常思维和行为的现象。",
+    "sections": {
+      "origins": {
+        "title": "起源",
+        "content": "'脑腐'一词源于网络文化，特别是在 TikTok、Twitter 和 Tumblr 等平台上，用户会开玩笑地描述他们对内容或角色的强烈迷恋。"
+      },
+      "types": {
+        "title": "脑腐类型",
+        "content": "从看到可爱瞬间就哭的破防型，到分析每个细节的学术型，脑腐以多种形式表现出来。"
+      },
+      "community": {
+        "title": "社区",
+        "content": "许多人不以脑腐为耻，反而将其视为与所爱内容的激情互动形式。它已成为粉丝社区的荣誉徽章。"
+      }
+    },
+    "testPurpose": "这个测试帮助你识别自己属于哪种脑腐类型，庆祝人们与所爱内容连接的独特方式。"
+  },
+  "SEO": {
+    "homepage": {
+      "title": "脑腐测试 - 你是哪种网络沉迷类型？| 免费人格测试",
+      "description": "来做我们的病毒式脑腐测试，发现你的网络沉迷人格类型！你是破防型、循环型、同人型还是混乱型？分享你的结果！"
+    },
+    "quiz": {
+      "title": "做脑腐测试 - 网络沉迷人格测试",
+      "description": "回答10个问题，发现你的脑腐类型。看看你是破防型、循环型、同人型还是其他类型的网络沉迷人格。"
+    },
+    "about": {
+      "title": "什么是脑腐？理解网络沉迷文化",
+      "description": "了解脑腐文化、其起源和不同类型的网络沉迷。理解为什么脑腐已成为网络社区值得庆祝的一部分。"
+    }
+  }
+}

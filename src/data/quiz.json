@@ -1,0 +1,151 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "key": "social_media_time",
+      "options": [
+        { "key": "non_stop", "points": { "extreme": 3, "loop": 2, "fanfic": 1, "academic": 1 } },
+        { "key": "three_hours", "points": { "loop": 3, "academic": 2, "breakdown": 1, "wedding": 1 } },
+        { "key": "while_eating", "points": { "fanfic": 3, "breakdown": 2, "submission": 1, "yandere": 1 } },
+        { "key": "never_exit", "points": { "extreme": 3, "submission": 2, "chaotic": 1, "wedding": 1 } }
+      ]
+    },
+    {
+      "id": 2,
+      "key": "content_type",
+      "options": [
+        { "key": "anime_clips", "points": { "loop": 3, "yandere": 2, "academic": 1, "chaotic": 1 } },
+        { "key": "fan_creation", "points": { "fanfic": 3, "chaotic": 2, "wedding": 1, "academic": 1 } },
+        { "key": "fanfic_recommendations", "points": { "fanfic": 3, "academic": 2, "submission": 1, "loop": 1 } },
+        { "key": "breakdown_posts", "points": { "breakdown": 3, "extreme": 2, "submission": 1, "wedding": 1 } }
+      ]
+    },
+    {
+      "id": 3,
+      "key": "repetitive_thoughts",
+      "options": [
+        { "key": "so_handsome", "points": { "loop": 3, "wedding": 2, "academic": 1, "yandere": 1 } },
+        { "key": "if_met_earlier", "points": { "wedding": 3, "fanfic": 2, "breakdown": 1, "submission": 1 } },
+        { "key": "going_crazy", "points": { "breakdown": 3, "extreme": 2, "chaotic": 1, "submission": 1 } },
+        { "key": "marry_now", "points": { "wedding": 3, "extreme": 2, "yandere": 1, "chaotic": 1 } }
+      ]
+    },
+    {
+      "id": 4,
+      "key": "character_actions",
+      "options": [
+        { "key": "dream_and_cry", "points": { "breakdown": 3, "wedding": 2, "extreme": 1, "fanfic": 1 } },
+        { "key": "write_letters", "points": { "fanfic": 3, "academic": 2, "submission": 1, "wedding": 1 } },
+        { "key": "scream_neighbors", "points": { "extreme": 3, "breakdown": 2, "chaotic": 1, "yandere": 1 } },
+        { "key": "stare_merchandise", "points": { "submission": 3, "academic": 2, "wedding": 1, "yandere": 1 } }
+      ]
+    },
+    {
+      "id": 5,
+      "key": "brainrot_reaction",
+      "options": [
+        { "key": "no_just_like", "points": { "academic": 3, "wedding": 2, "fanfic": 1, "loop": 1 } },
+        { "key": "smile_continue", "points": { "chaotic": 3, "extreme": 2, "breakdown": 1, "yandere": 1 } },
+        { "key": "yes_religion", "points": { "submission": 3, "wedding": 2, "academic": 1, "fanfic": 1 } },
+        { "key": "not_worthy", "points": { "breakdown": 3, "submission": 2, "extreme": 1, "academic": 1 } }
+      ]
+    },
+    {
+      "id": 6,
+      "key": "brain_retention",
+      "options": [
+        { "key": "smile_frame", "points": { "loop": 3, "wedding": 2, "academic": 1, "submission": 1 } },
+        { "key": "edit_bgm", "points": { "loop": 3, "chaotic": 2, "extreme": 1, "yandere": 1 } },
+        { "key": "fanfic_fragment", "points": { "fanfic": 3, "academic": 2, "wedding": 1, "submission": 1 } },
+        { "key": "confession_memory", "points": { "breakdown": 3, "extreme": 2, "wedding": 1, "fanfic": 1 } }
+      ]
+    },
+    {
+      "id": 7,
+      "key": "fear_words",
+      "options": [
+        { "key": "wake_up", "points": { "wedding": 3, "submission": 2, "academic": 1, "fanfic": 1 } },
+        { "key": "virtual", "points": { "breakdown": 3, "academic": 2, "submission": 1, "wedding": 1 } },
+        { "key": "not_his_who", "points": { "extreme": 3, "breakdown": 2, "chaotic": 1, "yandere": 1 } },
+        { "key": "character_ruined", "points": { "academic": 3, "fanfic": 2, "breakdown": 1, "submission": 1 } }
+      ]
+    },
+    {
+      "id": 8,
+      "key": "relationship_type",
+      "options": [
+        { "key": "saved_me", "points": { "submission": 3, "wedding": 2, "academic": 1, "fanfic": 1 } },
+        { "key": "ruined_me", "points": { "breakdown": 3, "extreme": 2, "chaotic": 1, "submission": 1 } },
+        { "key": "doesnt_know", "points": { "fanfic": 3, "academic": 2, "wedding": 1, "loop": 1 } },
+        { "key": "no_hope", "points": { "extreme": 3, "breakdown": 2, "submission": 1, "chaotic": 1 } }
+      ]
+    },
+    {
+      "id": 9,
+      "key": "typical_comment",
+      "options": [
+        { "key": "screaming", "points": { "extreme": 3, "breakdown": 2, "chaotic": 1, "yandere": 1 } },
+        { "key": "dialogue_death", "points": { "breakdown": 3, "loop": 2, "academic": 1, "fanfic": 1 } },
+        { "key": "brain_occupied", "points": { "submission": 3, "wedding": 2, "extreme": 1, "academic": 1 } },
+        { "key": "bow_to_writer", "points": { "chaotic": 3, "fanfic": 2, "academic": 1, "submission": 1 } }
+      ]
+    },
+    {
+      "id": 10,
+      "key": "current_state",
+      "options": [
+        { "key": "realize_crazy", "points": { "academic": 3, "breakdown": 2, "wedding": 1, "fanfic": 1 } },
+        { "key": "accept_crazy", "points": { "chaotic": 3, "submission": 2, "extreme": 1, "loop": 1 } },
+        { "key": "like_crazy_self", "points": { "wedding": 3, "yandere": 2, "chaotic": 1, "fanfic": 1 } },
+        { "key": "sick_but_real", "points": { "extreme": 3, "breakdown": 2, "submission": 1, "academic": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "breakdown": {
+      "key": "breakdown",
+      "emoji": "🚨",
+      "color": "#FF4444"
+    },
+    "loop": {
+      "key": "loop", 
+      "emoji": "🔁",
+      "color": "#FF8800"
+    },
+    "fanfic": {
+      "key": "fanfic",
+      "emoji": "📖", 
+      "color": "#8844FF"
+    },
+    "academic": {
+      "key": "academic",
+      "emoji": "🧠",
+      "color": "#4488FF"
+    },
+    "wedding": {
+      "key": "wedding",
+      "emoji": "💍",
+      "color": "#FF44AA"
+    },
+    "submission": {
+      "key": "submission",
+      "emoji": "🧎‍♀️",
+      "color": "#AA44FF"
+    },
+    "yandere": {
+      "key": "yandere",
+      "emoji": "🎭",
+      "color": "#FF6644"
+    },
+    "chaotic": {
+      "key": "chaotic",
+      "emoji": "🐇",
+      "color": "#44FFAA"
+    },
+    "extreme": {
+      "key": "extreme",
+      "emoji": "🔥",
+      "color": "#FF0000"
+    }
+  }
+}
