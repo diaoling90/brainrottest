@@ -39,7 +39,7 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
       description: seoDescription,
       type: 'website',
       locale: locale,
-      url: `https://brainrottest.com/${locale}`,
+      url: locale === 'en' ? 'https://brainrottest.com/' : `https://brainrottest.com/${locale}`,
     },
     twitter: {
       card: 'summary_large_image',

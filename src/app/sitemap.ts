@@ -2,8 +2,7 @@ import { MetadataRoute } from 'next'
 import quizData from '@/data/quiz.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://brainrot-test.com'
-  const locales = ['en', 'zh']
+  const baseUrl = 'https://brainrottest.com'
   const resultTypes = Object.keys(quizData.results)
   
   const routes = [
@@ -12,34 +11,41 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/about',
   ]
   
-  // Generate sitemap entries for main pages
-  const mainPages = locales.flatMap(locale =>
-    routes.map(route => ({
-      url: `${baseUrl}/${locale}${route}`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: route === '' ? 1 : 0.8,
-    }))
-  )
+  // Root English pages (no /en prefix)
+  const englishPages = routes.map(route => ({
+    url: `${baseUrl}${route}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: route === '' ? 1 : 0.9,
+  }))
   
-  // Generate sitemap entries for result pages
-  const resultPages = locales.flatMap(locale =>
-    resultTypes.map(type => ({
-      url: `${baseUrl}/${locale}/result/${type}`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.6,
-    }))
-  )
+  // Chinese pages (with /zh prefix)
+  const chinesePages = routes.map(route => ({
+    url: `${baseUrl}/zh${route}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }))
+  
+  // Result pages
+  const englishResultPages = resultTypes.map(type => ({
+    url: `${baseUrl}/result/${type}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }))
+  
+  const chineseResultPages = resultTypes.map(type => ({
+    url: `${baseUrl}/zh/result/${type}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.6,
+  }))
   
   return [
-    {
-      url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-    },
-    ...mainPages,
-    ...resultPages,
+    ...englishPages,
+    ...chinesePages,
+    ...englishResultPages,
+    ...chineseResultPages,
   ]
 }
